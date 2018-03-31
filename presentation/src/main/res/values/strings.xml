@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">Exercise</string>
+
+    <string name="title_activity_main">Events</string>
+
+    <string name="message_error">Some error occurred</string>
+    <string name="message_ok">Ok</string>
+
+</resources>
